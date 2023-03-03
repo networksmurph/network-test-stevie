@@ -40,6 +40,14 @@
 [instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://linkedin.com/in/joshmadakor
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=networksmurph&show_icons=true&locale=en&layout=compact" alt="networksmurph" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=networksmurph&show_icons=true&locale=en" alt="networksmurph" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=networksmurph&" alt="networksmurph" /></p>
+
+
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
