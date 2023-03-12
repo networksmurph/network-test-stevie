@@ -13,7 +13,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Pull in dev.to posts
+      - name: Pull in posts
         uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          feed_list: "https://dev.to/feed/networksmurph,https://www.https://krowtensmurph.blogspot.com/feed/,https://www.blogger.com/profile/13059792468342810162"
+        with: 
+          max_post_count: "5"
+          feed_list: "https://www.https://krowtensmurph.blogspot.com/feed/,https://www.blogger.com/profile/13059792468342810162,https://feeds.megaphone.fm/WWO3519750118"
