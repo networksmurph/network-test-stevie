@@ -1,28 +1,24 @@
-# Markdown heading hello world ["google.com"]
-
-<[def]>
+<https://krowtensmurph.blogspot.com/>
 Number Project Course  Hours Practice & Sudy
-1 [Comptia Network+](https://youtube.com/playlist?list=PLG49S3nxzAnmpdmX7RoTOyuNJQAb-r-gd)  200
-2 [Qualys](https://www.qualys.com/training/)  24
-2.1 THM - Introduction to Cyber Security  40
-2.2 THM - Linux Fundementals
-2.3 THM - Python Basics
-2.3.1 Code Dojo - Python
-2.3.2 Code Dojo - Bash
-3 THM - Web Fundamentals  32
-3.1 Website
-3.2 Resume
-3.3 [Blog](https://www.blogger.com/profile/13059792468342810162)
-3.4 Lab Projects
-3.5 Homelab
-3.5.1 <https://ubuntu.com/blog/kvm-hyphervisor>
-4.1 AWS Cloud Quest: Cloud Practitioner
+1 Comptia Network+  200 
+2 Qualys  24 
+2.1 THM - Introduction to Cyber Security  40 
+2.2 THM - Linux Fundementals   
+2.3 THM - Python Basics   
+2.3.1 Code Dojo - Python   
+2.3.2 Code Dojo - Bash   
+3 THM - Web Fundamentals  32 
+3.1 Website   
+3.2 Resume   
+3.3 Blog   
+3.4 Lab Projects   
+3.5 Homelab   
+3.5.1 https://ubuntu.com/blog/kvm-hyphervisor   
+4.1 AWS Cloud Quest: Cloud Practitioner   
 4.2 AWS Certified Cloud Practitioner  20 3 hr video + practice
 4.3 Azure AZ900 Training Vid  20 3 hr video + practice
-4.4 Azure Fundamentals
-5 THM - Pre Security  40
-6 THM - Jr Penetration Tester  64
-
- <https://www.comptia.org/testing/exam-vouchers/exam-prices>
-
-[def]: ttps://krowtensmurph.blogspot.com
+4.4 Azure Fundamentals   
+5 THM - Pre Security  40 
+6 THM - Jr Penetration Tester  64 
+    
+ https://www.comptia.org/testing/exam-vouchers/exam-prices   
