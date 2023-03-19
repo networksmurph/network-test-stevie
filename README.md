@@ -3,24 +3,15 @@
  <h2 align="center"><br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h2><a href="https://www.blogger.com/profile/13059792468342810162">Blog?</a></h2>
 
 - 🔭 I’m currently working on [lab1](arfa.solutions)
-
 - 🌱 I’m currently learning **everything**
-
 - 👯 I’m looking to collaborate on [lab2](arfa.solutions)
-
 - 🤝 I’m looking for help with [lab3](arfa.solutions)
-
 - 👨‍💻 All of my projects are available at [portfolio arfa.solutions](portfolio arfa.solutions)
-
 - 📝 I regularly write articles on [blog arfa.solutions](blog arfa.solutions)
-
 - 💬 Ask me about **nothing**
-
 - 📫 How to reach me **networksmurph@gmail.com**
-
 - 📄 Know about my experiences [resume arfa.solutions](resume arfa.solutions)
-
-- ⚡ Fun fact **I spend falling down rabbit holes and chasing butterflies**
+- ⚡ Fun fact **I spend too much time falling down rabbit holes and chasing butterflies**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
